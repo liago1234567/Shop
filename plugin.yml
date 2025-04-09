@@ -1,0 +1,13 @@
+name: MyShopPlugin
+version: 1.0
+main: me.yourname.myshopplugin.MyShopPlugin
+api-version: 1.21.4
+commands:
+  shop:
+    description: Öffnet das Shop-GUI
+  pay:
+    description: Sende Geld an einen Spieler
+  ah:
+    description: Zeigt das Auktionshaus
+  ahhistory:
+    description: Zeigt die Verkaufs-Historie
